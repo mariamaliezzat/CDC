@@ -1,0 +1,64 @@
+# vsim work.DATA_SYNC_tb 
+# Start time: 21:38:23 on Jul 21,2022
+# Loading work.DATA_SYNC_tb
+# Loading work.DATA_SYNC
+# Loading work.BIT_SYNC
+# Loading work.pulse_gen
+vlog -reportprogress 300 -work work {C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/BIT_SYNC.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:38:35 on Jul 21,2022
+# vlog -reportprogress 300 -work work C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/BIT_SYNC.v 
+# -- Compiling module BIT_SYNC
+# 
+# Top level modules:
+# 	BIT_SYNC
+# End time: 21:38:35 on Jul 21,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:38:35 on Jul 21,2022
+# vlog -reportprogress 300 -work work C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC.v 
+# -- Compiling module DATA_SYNC
+# 
+# Top level modules:
+# 	DATA_SYNC
+# End time: 21:38:35 on Jul 21,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:38:35 on Jul 21,2022
+# vlog -reportprogress 300 -work work C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v 
+# -- Compiling module DATA_SYNC_tb
+# 
+# Top level modules:
+# 	DATA_SYNC_tb
+# End time: 21:38:35 on Jul 21,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vlog -reportprogress 300 -work work {C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/pulse_gen.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:38:35 on Jul 21,2022
+# vlog -reportprogress 300 -work work C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/pulse_gen.v 
+# -- Compiling module pulse_gen
+# 
+# Top level modules:
+# 	pulse_gen
+# End time: 21:38:35 on Jul 21,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.DATA_SYNC_tb
+# End time: 21:38:46 on Jul 21,2022, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 0
+# vsim work.DATA_SYNC_tb 
+# Start time: 21:38:46 on Jul 21,2022
+# Loading work.DATA_SYNC_tb
+# Loading work.DATA_SYNC
+# Loading work.BIT_SYNC
+# Loading work.pulse_gen
+run -all
+# passed
+# passed
+# ** Note: $finish    : C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v(39)
+#    Time: 350 ns  Iteration: 0  Instance: /DATA_SYNC_tb
+# 1
+# Break in Module DATA_SYNC_tb at C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v line 39
+# End time: 21:39:00 on Jul 21,2022, Elapsed time: 0:00:14
+# Errors: 0, Warnings: 0

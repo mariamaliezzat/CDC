@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1
+vBIT_SYNC
+Z1 !s110 1658432315
+!i10b 1
+!s100 DmKVXATEOO`f[N7djWSQd2
+I9bWSjgYV@jm89QG9lTT_N2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1658411728
+8C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/BIT_SYNC.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/BIT_SYNC.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1658432315.000000
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/BIT_SYNC.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/BIT_SYNC.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@b@i@t_@s@y@n@c
+vDATA_SYNC
+R1
+!i10b 1
+!s100 U2^[1RjmfZcn4UT9fon5L1
+I4JUNQAOzmXVJH:@PJ^[V62
+R2
+R0
+w1658410020
+8C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC.v|
+!i113 1
+R5
+R6
+n@d@a@t@a_@s@y@n@c
+vDATA_SYNC_tb
+R1
+!i10b 1
+!s100 <neKhQNjG<l01AQUgC3V20
+IYDOXNAYz7HoJeAeJFVAdZ0
+R2
+R0
+w1658432289
+8C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/DATA_SYNC_tb.v|
+!i113 1
+R5
+R6
+n@d@a@t@a_@s@y@n@c_tb
+vpulse_gen
+R1
+!i10b 1
+!s100 9AbYEM[J@1a[EGh8=m9XV3
+I??`SjTm<T9fR=N9X_4JR63
+R2
+R0
+w1658411023
+8C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/pulse_gen.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/pulse_gen.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/pulse_gen.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1_1/pulse_gen.v|
+!i113 1
+R5
+R6

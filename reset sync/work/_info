@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2
+vRST_SYNC
+Z1 !s110 1658428021
+!i10b 1
+!s100 ]F1<]GoQjLRm1Dg:2O8nP1
+I=nbXV2:]A_X_Q5WV?RE@U0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1658393238
+8C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1658428021.000000
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@r@s@t_@s@y@n@c
+vRST_SYNC_tb
+R1
+!i10b 1
+!s100 fEle1^EH=3FH2>HC1d@lk1
+Ib_2^fGL>_O95j=@USXIc[0
+R2
+R0
+w1658427981
+8C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC_tb.v
+FC:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Mohamed Ezzat/Desktop/assignments/CDC/ass1.2/RST_SYNC_tb.v|
+!i113 1
+R5
+R6
+n@r@s@t_@s@y@n@c_tb
